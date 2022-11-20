@@ -40,4 +40,5 @@ Action and Adventure movies check the various metrics and would be a good ventur
 
 
 ## Repository Guide
-
+The data set used can be found under https://github.com/Mitchege/Phase1-Project/blob/main/bom.movie_gross.csv
+The presentation can be viewed under https://github.com/Mitchege/Phase1-Project/blob/main/Insights%20on%20the%20Film%20Industry-%20Microsoft%20by%20Mitchell.pdf
